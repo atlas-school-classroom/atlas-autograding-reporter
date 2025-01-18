@@ -1,7 +1,5 @@
 ## Atlas School Autograding Reporter
 
-This repository is a fork of [https://github.com/classroom-resources/autograding-grading-reporter](https://github.com/classroom-resources/autograding-grading-reporter)
-
 ## Overview
 
 **Atlas School Autograding Reporter** is a plugin for GitHub Classroom's Autograder. Use it to report the results of the test execution to students and GitHub Classroom. It supports autodetecting standard file outputs for common testing frameworks.
@@ -28,6 +26,7 @@ The JUnit XML format is a standardized structure for representing test execution
 * C#: [autograding-example-csharp](https://github.com/atlas-school-classroom/autograding-example-csharp)
 * Python: [autograding-example-python](https://github.com/atlas-school-classroom/autograding-example-python)
 * Javascript: [autograding-example-javascript](https://github.com/atlas-school-classroom/autograding-example-javascript)
+* AWS: [autograding-example-aws](https://github.com/atlas-school-classroom/autograding-example-aws)
 
 ## Setup
 
